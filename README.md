@@ -83,7 +83,7 @@ The trained model successfully distinguishes disaster-related tweets from normal
 ## 💻 Installation
 
 ```bash
-git clone https://github.com/vishal-chaudhary23/Disaster-Tweet-Classification.git
+git clone https://github.com/vishal-chaudhary23/Disaster-Tweet-Classification-NLP.git
 
 cd Disaster-Tweet-Classification
 
