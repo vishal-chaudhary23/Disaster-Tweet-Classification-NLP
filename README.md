@@ -80,17 +80,6 @@ The model was evaluated using standard classification metrics:
 The trained model successfully distinguishes disaster-related tweets from normal tweets with strong performance.
 
 
-## 💻 Installation
-
-```bash
-git clone https://github.com/vishal-chaudhary23/Disaster-Tweet-Classification-NLP.git
-
-cd Disaster-Tweet-Classification
-
-pip install -r requirements.txt
-```
-
-
 ## 📈 Example Predictions
 
 | Tweet                                             | Prediction   |
